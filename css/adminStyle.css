@@ -1,0 +1,22 @@
+:root {
+  --Body-text: "Poppins", sans-serif;
+  --heading: "Oswald", sans-serif;
+  ---light-bg: #f5f5f5;
+  ---light-color: #777;
+  --dark: #342e37;
+
+  --white: #fff;
+  --light: #f9f9f9;
+  --blue: #3c91e6;
+  --light-blue: #cfe8ff;
+  --grey: #eee;
+  --dark-grey: #aaaaaa;
+  --red: #db504a;
+  --yellow: #ffce26;
+  --light-yellow: #fff2c6;
+  --orange: #fd7238;
+  --light-orange: #ffe0d3;
+  --border: 0.2rem solid var(--black);
+  --box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+  --footer-height: 20px;
+}
