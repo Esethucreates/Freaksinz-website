@@ -1,8 +1,10 @@
-# Freaksins e-commerce project
+# Freaksins e-commerce website👽
 
-This is an E-commerce project for a clothing brand called Freaksinz
+## What is this📕
+This is an e-commerce website for a brand. I built this website as a way for the brand owner to simplifly transactions and reach a wider audience. Though not used in the final production, I am still proud of the project as it provided me a lot of knowledge especially about hosting and caching
 
-### To access to login to admin site:
-
-- username: admin
-- password: 111
+## Tech stack used😤:
+- PHP for backend
+- MYSQL for database
+- Basic html, css and Javascript
+- SemanticUI for easier styling
